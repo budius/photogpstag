@@ -1,5 +1,5 @@
-photogpstag
-===========
+Photo GPS Log for DSLR
+=====================
 
 Simple app to log location in a battery efficient way
 
