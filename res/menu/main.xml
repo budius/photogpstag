@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menuItemSettings"
+        android:icon="@drawable/ic_settings"
+        android:showAsAction="ifRoom"
+        android:title="Settings"
+        android:titleCondensed="Settings">
+    </item>
+    <item
+        android:id="@+id/menuItemSend"
+        android:icon="@drawable/ic_send"
+        android:title="Send Log"
+        android:titleCondensed="Send" android:showAsAction="ifRoom">
+    </item>
+    <item
+        android:id="@+id/menuItemClear"
+        android:title="Clear Log"
+        android:titleCondensed="Clear">
+    </item>
+
+</menu>
